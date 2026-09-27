@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# 运行生成物（可由 pipeline 重新生成）
+06_stage_outputs/
+02_metadata/
+03_audit/
+04_checksums/
+05_logs/
+figures/
+01_raw/weekly_json_chunks/
+
+# 数据/表格临时产物
+*.parquet
+*.pkl
+*.log
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

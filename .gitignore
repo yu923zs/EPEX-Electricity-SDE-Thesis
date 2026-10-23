@@ -10,7 +10,6 @@ __pycache__/
 03_audit/
 04_checksums/
 05_logs/
-figures/
 01_raw/weekly_json_chunks/
 
 # 数据/表格临时产物
